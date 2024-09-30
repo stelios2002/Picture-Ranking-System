@@ -1,6 +1,7 @@
 # Picture-Ranking-System
 
-## This program is a Python script designed to analyze images using pretrained neural networks and hypergraphs. It processes the images to extract features, measures similarities between them, and creates a hypergraph to represent those relationships. Here is a breakdown of what it does:
+## This program is a Python script designed to analyze images using pretrained neural networks and hypergraphs. It processes the images to extract features, measures similarities between them, and creates a hypergraph to represent those relationships.
+Here is a breakdown of what it does:
 ### 1) Extract Image Features:
 The program uses pretrained models like ResNet50, GoogLeNet, or SqueezeNet to extract feature vectors from a set of images. These features represent the content of each image in a way that can be used to compare them.
 ### 2) Measure Hyperedge Similarity:
